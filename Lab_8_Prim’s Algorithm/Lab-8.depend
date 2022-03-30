@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647944952 source:h:\c algo\lab-8\main.c
+	<stdio.h>
+	<stdbool.h>
+

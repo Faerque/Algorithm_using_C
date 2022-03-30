@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644920211 source:c:\c algo\4thlab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

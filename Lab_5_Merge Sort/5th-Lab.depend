@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645525096 source:c:\c algo\5th-lab\main.c
+	<stdio.h>
+	<stdlib.h>
+
